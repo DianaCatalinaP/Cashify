@@ -16,5 +16,9 @@ Ca lider de echipă pentru prima datasi in calitate de QA Tester, alături de Sc
 🌟 Rezultatele finale:
 
 ✅ O aplicație robustă și inovatoare, cu toate bug-urile identificate și corectate, pregătită pentru lansare. 
+
+
 ✅ O echipă eficientă care a colaborat pentru a livra un produs de înaltă calitate. 
+
+
 ✅ O satisfacție imensă din transformarea documentelor într-un produs final de succes prin muncă și colaborare.
