@@ -1,5 +1,5 @@
 # Cashify
-Ca lider de echipă, alături de Scrum Masterul și restul echipei, am început de la zero cu doar documentația și aplicația de testare, construind o soluție complet funcțională și inovatoare prin muncă intensă și colaborare strânsă.
+Ca lider de echipă pentru prima datasi in calitate de QA Tester, alături de Scrum Masterul și restul echipei, am început de la zero cu doar documentația și aplicația de testare, construind o soluție complet funcțională și inovatoare prin muncă intensă și colaborare strânsă.
 
 🚀 Provocări întâmpinate și realizări:
 
